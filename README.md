@@ -1,2 +1,4 @@
-# newsletter_form_tailwind
+# Newsletter form
 Newsletter form made using tailwind css
+
+
